@@ -1,4 +1,4 @@
-# Calculadora-de-F-sica
+# Calculadora-de-Fisica
 Uma calculadora feita para usar as equações de física e calcular a partir das informações.
 Informações sobre cada uma das três funções:
 1-Equações:
